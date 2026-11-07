@@ -1,0 +1,6 @@
+   modules = ["php-8.2"]
+   run = "php -S 0.0.0.0:5000"
+
+   [[ports]]
+   localPort = 5000
+   externalPort = 80
